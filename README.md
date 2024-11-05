@@ -45,8 +45,8 @@ Ssembatya et al. 2025
 ### Output data
 |       Dataset                                              |   Repository Link                              |                   DOI                             |
 |:----------------------------------------------------------:|-----------------------------------------------:|:-------------------------------------------------:|
-|     DCOPF1 (Persistence) LMPs and generation               | https://data.msdlive.org/records/nth03-3ta28   | https://doi.org/10.57931/2331202                  |
-|     DCOPF1 (Perfect and Persistence) LMPs and generation   | https://data.msdlive.org/records/nth03-3ta28   | https://doi.org/10.57931/2331202                  |
+|     DCOPF1 (Perfect, Persistence) LMPs and generation      | https://zenodo.org/uploads/14041719            | https://doi.org/10.5281/zenodo.14041719           |
+|     DCOPF2 (Perfect, Persistence) LMPs and generation      | https://zenodo.org/uploads/14041719            | https://doi.org/10.5281/zenodo.14041719           |
 
 ## Contributing modeling software
 |  Model              | Version |         Repository Link          | DOI |
