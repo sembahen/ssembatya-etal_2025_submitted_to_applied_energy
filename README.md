@@ -59,12 +59,12 @@ Ssembatya et al. 2025
 
 ## Reproduce my experiment
 Clone this repository to get access to the scripts used in the experiment. Run the 4 instances of the DCOPF model ("DCOPF1 Perfect", "DCOPF1 Persistence", "DCOPF2 Perfect", "DCOPF1 Persistence").
-Use the results of LMPs and generation from the 4 runs to analyze the trends in changes in price forecasts errors corresponding to changes in streamflow forecast or the DP model's (FIScH) optimal scheduling).
+Use the results of LMPs and generation from the 4 DCOPF runs, as well as outputs from FIScH to analyze the trends in changes in price forecasts errors corresponding to changes in streamflow forecast or the DP model's (FIScH) optimal scheduling).
 
 | Script Number | Script Name | Purpose |
 | --- | --- | --- |
-| 1 | `texas_ht_pred_3_mlp_github.py` | Parameterize the ML model, generate datasets (predictions) of residential load under different scenarios and the non-residential load |
-| 2 | `peaking_results_peak_hourly_total.py` | Combines the residential and non-residential load to obtain the total load datasets |
+| 1 | `xx.py` | xx |
+| 2 | `xx.py` | xx |
 
 Run the following scripts for the GO ERCOT model.
 | Script Number | Script Name | Purpose |
