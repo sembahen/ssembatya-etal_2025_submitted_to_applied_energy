@@ -49,9 +49,12 @@ Ssembatya et al. 2025
 |     DCOPF2 (Perfect, Persistence) LMPs and generation      | https://zenodo.org/uploads/14041719            | https://doi.org/10.5281/zenodo.14041719           |
 
 ## Contributing modeling software
-|  Model              | Version |         Repository Link          | DOI |
-|:-------------------:|:-------:|:----------------------------------------------------------------:|:--------------------------------:|
-| Ssembatya et al., 2024 Grid Operations (GO) ERCOT model version used | v1.0.0 | https://zenodo.org/records/10475965 | https://doi.org/10.5281/zenodo.10475965 | 
+|  Model   | Version |         Repository Link                            | DOI |
+|:--------:|:-------:|:--------------------------------------------------:|:---:|
+| FIScH      |  v0.4.0  | https://github.com/HydroWIRES-PNNL/fisch        | NA  |
+| GO-WEST    |  XX      | https://github.com/romulus97/IM3-GO-WEST        | XX  |
+| hydrofixr  | NA       | https://github.com/pnnl/hydrofixr/tree/master   | NA  |
+| starfit    | v0.1.0   | https://github.com/IMMM-SFA/starfit             | NA  |
 
 
 ## Reproduce my experiment
@@ -79,13 +82,3 @@ Use the following scripts to reproduce figures used in this publication.
 | Figure Numbers |                Script Name                              |                                  Description                                               | 
 |:--------------:|:-------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
 |       1        |     `minmax_temp_withhistoricals_from1980_paper.py`     |      Minimum and maximum hourly annual temperature under historical and climate scenarios  |
-|       3        |     `nodal_topology_with_lines_ERCOT_paper.py`     |      Reduced topology framework of the selected GO ERCOT version showing nodes and transmission lines  |
-|       4        |     `pk_seas_hrly_res_results_visuals_ssp3_paper.py`     |      Season of peak hourly residential load for all future scenario simulations  |
-|       5        |     `pk_seas_hrly_tot_results_visuals_ssp3_paper.py`     |      Season of peak hourly total load for all future scenario simulations  |
-|       6        |     `plot_year_examples_paper.py`     |      Comparing weather and load for two selected years  |
-|       7        |     `peak_totload_ssp3_paper.py`     |      Peak hourly total load for all future scenario simulations  |
-|       8a       |     `lol_distribution_rcp85hotterssp3base_paper.py`     |      Nodal location of loss of load on simulation day rcp85hotterssp3_base_3rd_aug_2091  |
-|       8c       |     `lol_distribution_rcp45coolerssp3stdd_paper.py`     |      Nodal location of loss of load on simulation day rcp45coolerssp3_stdd_23rd_dec_2069  |
-|       8b,d     |     `ercot_temperature_maps_paper.ipynb`     |      Max and min hourly temperature distribution on selected simulation days  |
-|       9        |     `lol_visuals_manuscript_SSP3_paper.py`     |      Cumulative loss of load for all scenarios  |
-
