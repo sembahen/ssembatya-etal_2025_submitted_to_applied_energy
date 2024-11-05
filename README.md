@@ -1,7 +1,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10934193.svg)](https://doi.org/10.5281/zenodo.10934193)
 
-# ssembatya-etal_2025_applied_energy
+# ssembatya-etal_2025_TBD
 
 **Analyzing the Relative Influences of Hydrologic Information and Dams’ Production Decisions on Electricity Price Forecasts**
 
@@ -32,16 +32,16 @@ Dams’ Production Decisions on Electricity Price Forecasts. Submitted to Applie
 
 ## Code reference
 Ssembatya, H., Kern, J. D., Voisin, N., Steinschneider, S., & Broman, D. (2025). Supporting code for 
-Ssembatya et al. 2025 - 
+Ssembatya et al. 2025
 
 ## Data references
 ### Input data
 |       Dataset                                   |               Repository Link                        |               DOI                |
 |:-----------------------------------------------:|:----------------------------------------------------:|:--------------------------------:|
-|   White et al., 2021 model output               | https://data.mendeley.com/datasets/v8mt9d3v6h/1      | https://doi.org/10.17632/v8mt9d3v6h.1            |
-| Jones et al., 2022 IM3/HyperFACETS Thermodynamic Global Warming (TGW) simulations | https://tgw-data.msdlive.org | https://doi.org/10.57931/1885756 |
-|   Burleyson et al., 2023 meteorology datasets   | https://data.msdlive.org/records/cnsy6-0y610 | https://doi.org/10.57931/1960530 |
-|   ERCOT historical reported load                | https://www.ercot.com/gridinfo/load/load_hist        |                   -               |
+|   DCOPF1 Perfect                                | https://data.mendeley.com/datasets/v8mt9d3v6h/1      | https://doi.org/10.17632/v8mt9d3v6h.1            |
+|   DCOPF1 Persistence                            | https://tgw-data.msdlive.org | https://doi.org/10.57931/1885756 |
+|   DCOPF2 Perfect                                | https://data.msdlive.org/records/cnsy6-0y610 | https://doi.org/10.57931/1960530 |
+|   DCOPF1 Persistence                            | https://www.ercot.com/gridinfo/load/load_hist        |                   -               |
 
 ### Output data
 |       Dataset                                           |   Repository Link                            |                   DOI                             |
@@ -84,8 +84,8 @@ Use the following scripts to reproduce figures used in this publication.
 |       5        |     `pk_seas_hrly_tot_results_visuals_ssp3_paper.py`     |      Season of peak hourly total load for all future scenario simulations  |
 |       6        |     `plot_year_examples_paper.py`     |      Comparing weather and load for two selected years  |
 |       7        |     `peak_totload_ssp3_paper.py`     |      Peak hourly total load for all future scenario simulations  |
-|       8a        |     `lol_distribution_rcp85hotterssp3base_paper.py`     |      Nodal location of loss of load on simulation day rcp85hotterssp3_base_3rd_aug_2091  |
-|       8c        |     `lol_distribution_rcp45coolerssp3stdd_paper.py`     |      Nodal location of loss of load on simulation day rcp45coolerssp3_stdd_23rd_dec_2069  |
-|       8b,d        |     `ercot_temperature_maps_paper.ipynb`     |      Max and min hourly temperature distribution on selected simulation days  |
+|       8a       |     `lol_distribution_rcp85hotterssp3base_paper.py`     |      Nodal location of loss of load on simulation day rcp85hotterssp3_base_3rd_aug_2091  |
+|       8c       |     `lol_distribution_rcp45coolerssp3stdd_paper.py`     |      Nodal location of loss of load on simulation day rcp45coolerssp3_stdd_23rd_dec_2069  |
+|       8b,d     |     `ercot_temperature_maps_paper.ipynb`     |      Max and min hourly temperature distribution on selected simulation days  |
 |       9        |     `lol_visuals_manuscript_SSP3_paper.py`     |      Cumulative loss of load for all scenarios  |
 
