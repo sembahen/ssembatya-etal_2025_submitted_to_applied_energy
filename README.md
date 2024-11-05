@@ -38,8 +38,8 @@ Ssembatya et al. 2025
 ### Input data
 |       Dataset                                   |               Repository Link                        |               DOI                |
 |:-----------------------------------------------:|:----------------------------------------------------:|:--------------------------------:|
-|   DCOPF1 Perfect                                | https://data.mendeley.com/datasets/v8mt9d3v6h/1      | https://doi.org/10.17632/v8mt9d3v6h.1            |
-|   DCOPF1 Persistence                            | https://tgw-data.msdlive.org | https://doi.org/10.57931/1885756 |
+|   STARFIT Perfect files                          | https://data.mendeley.com/datasets/v8mt9d3v6h/1      | https://doi.org/10.17632/v8mt9d3v6h.1            |
+|                          | https://tgw-data.msdlive.org | https://doi.org/10.57931/1885756 |
 |   DCOPF2 Perfect                                | https://data.msdlive.org/records/cnsy6-0y610 | https://doi.org/10.57931/1960530 |
 |   DCOPF1 Persistence                            | https://www.ercot.com/gridinfo/load/load_hist        |                   -               |
 
