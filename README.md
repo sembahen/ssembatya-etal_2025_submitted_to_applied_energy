@@ -36,17 +36,17 @@ Ssembatya et al. 2025
 
 ## Data references
 ### Input data
-|       Dataset                                   |               Repository Link                        |               DOI                |
-|:-----------------------------------------------:|:----------------------------------------------------:|:--------------------------------:|
-|   STARFIT Perfect files                          | https://data.mendeley.com/datasets/v8mt9d3v6h/1      | https://doi.org/10.17632/v8mt9d3v6h.1            |
-|                          | https://tgw-data.msdlive.org | https://doi.org/10.57931/1885756 |
-|   DCOPF2 Perfect                                | https://data.msdlive.org/records/cnsy6-0y610 | https://doi.org/10.57931/1960530 |
-|   DCOPF1 Persistence                            | https://www.ercot.com/gridinfo/load/load_hist        |                   -               |
+|       Dataset                                   |               Repository Link                                                                          |               DOI                        |
+|:-----------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:----------------------------------------:|
+|   STARFIT Output files                          | https://data.mendeley.com/datasets/v8mt9d3v6h/1                                                        | https://doi.org/10.17632/v8mt9d3v6h.1    |
+|   FIScH Output                                  | [https://tgw-data.msdlive.org](https://github.com/HydroWIRES-PNNL/broman-etal_2025_wrr)                | https://doi.org/10.57931/1885756         |
+
 
 ### Output data
-|       Dataset                                           |   Repository Link                            |                   DOI                             |
-|:-------------------------------------------------------:|---------------------------------------------:|:-------------------------------------------------:|
-|     ML models load output & GO ERCOT simulations    | https://data.msdlive.org/records/nth03-3ta28     | https://doi.org/10.57931/2331202 |
+|       Dataset                                              |   Repository Link                              |                   DOI                             |
+|:----------------------------------------------------------:|-----------------------------------------------:|:-------------------------------------------------:|
+|     DCOPF1 (Persistence) LMPs and generation               | https://data.msdlive.org/records/nth03-3ta28   | https://doi.org/10.57931/2331202                  |
+|     DCOPF1 (Perfect and Persistence) LMPs and generation   | https://data.msdlive.org/records/nth03-3ta28   | https://doi.org/10.57931/2331202                  |
 
 ## Contributing modeling software
 |  Model              | Version |         Repository Link          | DOI |
