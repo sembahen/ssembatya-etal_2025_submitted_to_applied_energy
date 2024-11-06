@@ -36,10 +36,10 @@ Ssembatya et al. 2025
 
 ## Data references
 ### Input data
-|       Dataset                                   |               Repository Link                                                                          |               DOI                        |
-|:-----------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:----------------------------------------:|
-|   STARFIT Output files                          | https://data.mendeley.com/datasets/v8mt9d3v6h/1                                                        | https://doi.org/10.17632/v8mt9d3v6h.1    |
-|   FIScH Output                                  | [https://tgw-data.msdlive.org](https://github.com/HydroWIRES-PNNL/broman-etal_2025_wrr)                | https://doi.org/10.57931/1885756         |
+|       Dataset                                   |               Repository Link                                   |               DOI                        |
+|:-----------------------------------------------:|:---------------------------------------------------------------:|:----------------------------------------:|
+|   STARFIT Output files                          | xx                                                              | xx                                       |
+|   FIScH Output                                  | https://github.com/HydroWIRES-PNNL/broman-etal_2025_wrr         | https://doi.org/10.57931/1885756         |
 
 
 ### Output data
