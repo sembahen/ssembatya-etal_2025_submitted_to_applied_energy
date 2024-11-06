@@ -53,7 +53,6 @@ Ssembatya et al. 2025
 |:--------:|:-------:|:--------------------------------------------------:|:---:|
 | FIScH      |  v0.4.0  | https://github.com/HydroWIRES-PNNL/fisch        | NA  |
 | GO-WEST    |  XX      | https://github.com/romulus97/IM3-GO-WEST        | XX  |
-| hydrofixr  | NA       | https://github.com/pnnl/hydrofixr/tree/master   | NA  |
 | starfit    | v0.1.0   | https://github.com/IMMM-SFA/starfit             | NA  |
 
 
