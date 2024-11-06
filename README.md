@@ -39,7 +39,7 @@ Ssembatya et al. 2025
 |       Dataset                                   |               Repository Link                                   |               DOI                        |
 |:-----------------------------------------------:|:---------------------------------------------------------------:|:----------------------------------------:|
 |   STARFIT Output files                          | xx                                                              | xx                                       |
-|   FIScH Output                                  | https://github.com/HydroWIRES-PNNL/broman-etal_2025_wrr         | https://doi.org/10.57931/1885756         |
+|   FIScH Output                                  | https://github.com/HydroWIRES-PNNL/broman-etal_2025_wrr         | xx                                       |
 
 
 ### Output data
