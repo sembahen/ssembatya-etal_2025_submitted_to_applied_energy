@@ -58,7 +58,7 @@ Ssembatya et al. 2025
 
 ## Reproduce my experiment
 Clone this repository to get access to the scripts used in the experiment. Run the 4 instances of the DCOPF model ("DCOPF1 Perfect", "DCOPF1 Persistence", "DCOPF2 Perfect", "DCOPF1 Persistence").
-Use the results of LMPs and generation from the 4 DCOPF runs, as well as outputs from FIScH to analyze the trends in changes in price forecasts errors corresponding to changes in streamflow forecast or the DP model's (FIScH) optimal scheduling).
+Use the results of LMPs and generation from the 4 DCOPF runs, as well as outputs from FIScH to analyze the trends in changes in price forecasts errors corresponding to changes in streamflow forecast or the DP model's (FIScH) optimal scheduling.
 
 | Script Number | Script Name | Purpose |
 | --- | --- | --- |
