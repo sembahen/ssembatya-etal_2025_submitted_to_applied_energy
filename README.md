@@ -65,8 +65,8 @@ Use the results of LMPs and generation from the 4 DCOPF runs, as well as outputs
 *Note that the nomenclature "GO1" is the same as "DCOPF1".  
 *Note that the nomenclature "GO2"  is the same as "DCOPF2".  
 *Note that the nomenclature "Delta1" is the same as "e_flow".  
-*Note that the nomenclature "Delta2_perfect" is the same as "e_scheduling_perfect"
-*Note that the nomenclature "Delta2_persistence" is the same as "e_scheduling_persistence"
+*Note that the nomenclature "Delta2_perfect" is the same as "e_scheduling_perfect".  
+*Note that the nomenclature "Delta2_persistence" is the same as "e_scheduling_persistence".  
 
 
 | Script Number | Script Name | Purpose |
@@ -81,4 +81,4 @@ Use the following scripts to reproduce figures used in this publication.
 
 | Figure Numbers |                Script Name                              |                                  Description                                               | 
 |:--------------:|:-------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
-|       2        |     `xx.py`     |      xx |
+|       2        |     `distribution_plot_onlyperfect_violin_manuscript.py`     |      Comparing the differences in LMPs across all hours, nodes, and years. |
