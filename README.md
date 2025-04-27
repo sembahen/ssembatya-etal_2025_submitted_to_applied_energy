@@ -3,9 +3,9 @@
 
 # ssembatya-etal_2025_TBD
 
-**Analyzing the Relative Influences of Hydrologic Information and Dams’ Production Decisions on Electricity Price Forecasts**
+**Analyzing the Relative Influences of Hydrologic Information and Dams’ Hydropower Scheduling Decisions on Electricity Price Forecasts**
 
-Henry Ssembatya<sup>1\*</sup>, Jordan D. Kern<sup>1</sup>, Nathalie Voisin<sup>2,3</sup>, Scott Steinschneider
+Henry Ssembatya<sup>1</sup>, Jordan D. Kern<sup>1\*</sup>, Nathalie Voisin<sup>2,3\*</sup>, Scott Steinschneider
 <sup>4</sup>, and Daniel Broman<sup>2</sup>
 
 <sup>1 </sup> North Carolina State University, Raleigh, NC, USA   
@@ -13,7 +13,7 @@ Henry Ssembatya<sup>1\*</sup>, Jordan D. Kern<sup>1</sup>, Nathalie Voisin<sup>2
 <sup>3 </sup> University of Washington, Seattle, WA, USA  
 <sup>4 </sup> Cornell University, Ithaca, NY, USA 
 
-\* corresponding author: hssemba@ncsu.edu
+\* Corresponding authors: jkern@ncsu.edu, Nathalie.voisin@pnnl.gov
 
 ## Abstract
 Hydropower operators use hydrologic forecasts to better manage water releases and reservoir storage, including hydropower generation schedules.
