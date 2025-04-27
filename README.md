@@ -71,8 +71,8 @@ Use the results of LMPs and generation from the 4 DCOPF runs, as well as outputs
 
 | Script Number | Script Name | Purpose |
 | --- | --- | --- |
-| 1 | `xx.py` | xx |
-| 2 | `xx.py` | xx |
+| 1 | `deltas_v2_github.py` | Computing "e_flow" and "e_scheduling" based on LMPs ("duals") |
+
 
 
 
@@ -81,4 +81,4 @@ Use the following scripts to reproduce figures used in this publication.
 
 | Figure Numbers |                Script Name                              |                                  Description                                               | 
 |:--------------:|:-------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
-|       1        |     `xx.py`     |      xx |
+|       2        |     `xx.py`     |      xx |
