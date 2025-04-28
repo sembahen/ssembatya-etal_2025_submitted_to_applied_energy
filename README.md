@@ -62,11 +62,11 @@ Clone this repository to get access to the scripts used in the experiment. Run t
 Use the results of LMPs and generation from the 4 DCOPF runs, as well as outputs from FIScH to analyze the trends in changes in price forecasts errors corresponding to changes in streamflow forecast or the DP model's (FIScH) optimal scheduling.
 
 
-*Note that the nomenclature "GO1" is the same as "DCOPF1".  
-*Note that the nomenclature "GO2"  is the same as "DCOPF2".  
-*Note that the nomenclature "Delta1" is the same as "e_flow".  
-*Note that the nomenclature "Delta2_perfect" is the same as "e_scheduling_perfect".  
-*Note that the nomenclature "Delta2_persistence" is the same as "e_scheduling_persistence".  
+*Note that the nomenclature "GO1" is used interchangeably with "DCOPF1". 
+*Note that the nomenclature "GO2"  is used interchangeably with "DCOPF2".  
+*Note that the nomenclature "Delta1" is used interchangeably with "e_flow".  
+*Note that the nomenclature "Delta2_perfect" is used interchangeably with "e_scheduling_perfect".  
+*Note that the nomenclature "Delta2_persistence" is used interchangeably with "e_scheduling_persistence".  
 
 
 | Script Number | Script Name | Purpose |
@@ -83,3 +83,4 @@ Use the following scripts to reproduce figures used in this publication.
 |:--------------:|:-------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
 |       2        |     `distribution_plot_onlyperfect_violin_manuscript.py`     |      Comparing the differences in LMPs across all hours, nodes, and years. |
 |       3        |     `jointplot_manuscript_github.py`     |      Comparing the standard deviation for "e_flow" and "e_scheduling" across nodes. Also plotted against annual hydro generation. |
+|       4        |     `seasonal_std_avg_deltas_github.py`     |      Comparing the standard deviation for "e_flow" and "e_scheduling" by year and season. |
