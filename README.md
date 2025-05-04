@@ -64,9 +64,9 @@ Use the results of LMPs and generation from the 4 DCOPF runs, as well as outputs
 
 *Note that the nomenclature "GO1" is used interchangeably with "DCOPF1". 
 *Note that the nomenclature "GO2"  is used interchangeably with "DCOPF2".  
-*Note that the nomenclature "Delta1" is used interchangeably with "e_flow".  
-*Note that the nomenclature "Delta2_perfect" is used interchangeably with "e_scheduling_perfect".  
-*Note that the nomenclature "Delta2_persistence" is used interchangeably with "e_scheduling_persistence".  
+*Note that the nomenclature "Delta1" is used interchangeably with "ε_flow".  
+*Note that the nomenclature "Delta2_perfect" is used interchangeably with "ε_scheduling_perfect".  
+*Note that the nomenclature "Delta2_persistence" is used interchangeably with "ε_scheduling_persistence".  
 
 
 | Script Number | Script Name | Purpose |
