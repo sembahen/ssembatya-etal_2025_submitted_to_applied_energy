@@ -86,4 +86,4 @@ Use the following scripts to reproduce figures used in this publication.
 |       4        |     `seasonal_std_avg_deltas_github.py`     |      Comparing the standard deviation for "e_flow" and "e_scheduling" by year and season. |
 |       5        |     `std_avg_plot_onlyperfect_github.py`     |      Visualizing the standard deviation for "e_flow" and "e_scheduling" by node. |
 |       6        |     `revenue_impactsv2_github.py`     |      How changes in price errors affect revenues by year. |
-
+|       7        |     `2000_percentage_plot_wecc_delta2pf_revdistr_github.py`     |      Plotting the percentage changes in revenue by node |
