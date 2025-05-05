@@ -85,4 +85,5 @@ Use the following scripts to reproduce figures used in this publication.
 |       3        |     `jointplot_manuscript_github.py`     |      Comparing the standard deviation for "e_flow" and "e_scheduling" across nodes. Also plotted against annual hydro generation. |
 |       4        |     `seasonal_std_avg_deltas_github.py`     |      Comparing the standard deviation for "e_flow" and "e_scheduling" by year and season. |
 |       5        |     `std_avg_plot_onlyperfect_github.py`     |      Visualizing the standard deviation for "e_flow" and "e_scheduling" by node. |
+|       6        |     `revenue_impactsv2_github.py`     |      How changes in price errors affect revenues by year. |
 
